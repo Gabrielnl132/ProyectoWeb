@@ -1,0 +1,39 @@
+.header{
+    background-color: white;
+}
+.body{
+    background-color: gainsboro;
+}
+
+.img1{
+    text-align: center;
+}
+
+.titulo1{
+    text-align: center;
+}
+.parrafo1{
+    margin: 0px 350px;
+}
+
+.linea{
+    margin: 0px 350px;
+}
+#grid{
+    text-align: center;
+}
+.col{
+    text-align: left;
+    margin: 0px 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+#footer{
+    background-color: black;
+}
+.footer{
+
+    margin: 2% 15%
+}
