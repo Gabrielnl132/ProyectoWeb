@@ -1,5 +1,6 @@
 .header{
   background-color: white;
+
 }
 .body{
   background-color: gainsboro;
@@ -33,4 +34,9 @@ titulo1{
 
 .footer{
   margin: 2% 15%
+}
+
+a{
+  text-decoration: none;
+  color: black;
 }
