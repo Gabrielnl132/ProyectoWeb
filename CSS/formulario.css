@@ -22,9 +22,9 @@
 .header{
     background-color: white;
 }
-.fondo{
-    background-color: white;
-    margin: 0px 100px;
+
+.fondo-body{
+    background-color: gainsboro;
 }
 
 #footer{
@@ -36,3 +36,7 @@
 
 }
 
+#margen-carousel{
+
+    margin: 20px ;
+}
